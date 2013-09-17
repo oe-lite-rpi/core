@@ -111,7 +111,6 @@ cpuspecs = {
             'mtune'		: 'arm926ej-s',
             },
         '1176jzfs'		: {
-             'march'		: 'armv6',
              'mcpu'		: 'arm1176jzf-s',
              'mtune'		: 'arm1176jzf-s',
              'abi flags'	: [
